@@ -1,0 +1,6 @@
+{
+  "name": "Contact Lens Tracker",
+  "description": "Track contact lens replacement dates, daily wear days, and box inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
